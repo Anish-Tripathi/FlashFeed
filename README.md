@@ -78,8 +78,8 @@ cd flashfeed
 ### 3️⃣ Add Your News API Key
 
 1. Sign up at [https://newsapi.org](https://newsapi.org) and get your API key.
-2. Inside the project directory, open the `script.js` or `config.js` file (depending on your structure).
-3. Replace the placeholder with your key:
+2. Inside the project directory, open the `js/NewsFeedWeb.js` file.
+3. Replace the demo key with your key:
 
 ```javascript
 const API_KEY = "YOUR_NEWS_API_KEY_HERE";
@@ -91,12 +91,12 @@ const API_KEY = "YOUR_NEWS_API_KEY_HERE";
 
 #### Option 1: Open directly in a browser
 
-- Open `index.html` in your browser.
+- Open `html/NewsFeedWeb.html` in your browser.
 
 #### Option 2: Use Live Server (recommended)
 
 - Open the project folder in VS Code.
-- Right-click on `index.html` → Click **"Open with Live Server"**.
+- Right-click on `html/NewsFeedWeb.html` → Click **"Open with Live Server"**.
 
 ---
 
