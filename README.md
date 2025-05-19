@@ -40,7 +40,7 @@ Welcome to **FlashFeed**, your one-stop portal for real-time, categorized news f
 
 ### 📰 News Cards
 
-<img src="./images/cards.png" alt="News Cards" width="80%">
+<img src="./images/cards.png" alt="News Cards" width="40%">
 
 ### 🔍 Search Feature
 
