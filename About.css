@@ -1,0 +1,131 @@
+:root {
+    --primary: cyan;
+    --primary-dark: cyan;
+    --dark: black;
+    --darker: black;
+    --light: #f8f8f8;
+    --gray: #333333;
+    --card-bg: #1e1e1e;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: black;
+    color: var(--light);
+    line-height: 1.6;
+}
+
+.main{
+  background-color: black;
+}
+
+.container {
+    max-width: 100vw;
+    margin: 0 auto;
+    padding: 0 20px;
+    background-color: black;
+    border-radius: 20px;
+}
+
+
+/* Hero Section */
+.hero {
+    padding: 50px 0;
+    text-align: center;
+    background: black;
+    position: relative;
+    overflow: hidden;
+    
+}
+
+.hero h1 {
+    font-size: 3.5rem;
+    margin-bottom: 15px;
+    color: var(--primary);
+    position: relative;
+    z-index: 2;
+}
+
+
+/* Section Styles */
+.mission, .features {
+    padding: 50px 0;
+    background-color: black;
+}
+
+.features{
+  padding-bottom: 100px;
+}
+
+.section-header {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.section-header h2 {
+    font-size: 2.5rem;
+    color: var(--primary);
+    margin-bottom: 15px;
+}
+
+.underline {
+    width: 80px;
+    height: 3px;
+    background: var(--primary);
+    margin: 0 auto;
+}
+
+.para {
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 4rem;
+    text-align: center;
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: white;
+}
+
+/* Features Grid */
+.features-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+    margin-top: 30px;
+}
+
+.feature-card {
+    background: cyan;
+    padding: 40px 30px;
+    border-radius: 10px;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border: 1px solid var(--gray);
+}
+
+.feature-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px rgba(0, 255, 255, 0.1);
+    border-color: var(--primary);
+}
+
+.feature-card i {
+    font-size: 3rem;
+    color: black;
+    margin-bottom: 20px;
+}
+
+.feature-card h3 {
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+}
+
+.feature-card p {
+    opacity: 0.8;
+}
+
