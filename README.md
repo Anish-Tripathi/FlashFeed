@@ -8,9 +8,9 @@ Welcome to **FlashFeed**, your one-stop portal for real-time, categorized news f
 
 ## 🌐 Live Demo
 
-**[Click here to try FlashFeed](https://flashfeed-news.netlify.app)**
+**[Click here to try FlashFeed]([https://flashfeed-news.netlify.app](https://flash-feed-amber.vercel.app/))**
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1234abcd-5678-efgh-9012-ijklmnopqrst/deploy-status)](https://app.netlify.com/sites/flashfeed-news/deploys)
+
 
 ---
 
