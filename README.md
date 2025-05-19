@@ -3,7 +3,7 @@
 Welcome to **FlashFeed**, your one-stop portal for real-time, categorized news from trusted sources around the globe. Built using **HTML**, **CSS**, and **Vanilla JavaScript**, FlashFeed pulls the latest headlines using a **News API** and presents them in a fast, intuitive, and visually appealing interface.
 
 <p align="center">
-  <img src="./screenshots/main.png" alt="FlashFeed Preview" width="80%">
+  <img src="./images/main.png" alt="FlashFeed Preview" width="80%">
 </p>
 
 ## 🌐 Live Demo
@@ -36,23 +36,23 @@ Welcome to **FlashFeed**, your one-stop portal for real-time, categorized news f
 
 ---
 
-## 📸 Screenshots
+## 📸 images
 
 ### 📰 News Cards
 
-<img src="./screenshots/cards.png" alt="News Cards" width="80%">
+<img src="./images/cards.png" alt="News Cards" width="80%">
 
 ### 🔍 Search Feature
 
-<img src="./screenshots/search.png" alt="Search Feature" width="80%">
+<img src="./images/search.png" alt="Search Feature" width="80%">
 
 ### 🚨 About Us
 
-<img src="./screenshots/about.png" alt="Breaking News" width="80%">
+<img src="./images/about.png" alt="Breaking News" width="80%">
 
 ### 🚨 Terms & Conditions
 
-<img src="./screenshots/terms.png" alt="Breaking News" width="80%">
+<img src="./images/terms.png" alt="Breaking News" width="80%">
 
 ---
 
