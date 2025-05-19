@@ -1,4 +1,4 @@
-const API_KEY = "668ceced1d5f424bb0f2c4c4805dfecc";
+// const API_KEY= 668ceced1d5f424bb0f2c4c4805dfecc;
 const url = "https://newsapi.org/v2/everything?q=";
 const ARTICLES_PER_PAGE = 12;
 let currentArticles = [];
@@ -11,7 +11,8 @@ function reload() {
 }
 
 async function fetchNews(query) {
-    const res = await fetch(`${url}${query}&apiKey=${API_KEY}`);
+    // const res = await fetch(`${url}${query}&apiKey=${API_KEY}`);
+   const res = await fetch(`/api/fetchNews?query=${query}`);
     const data = await res.json();
     currentArticles = data.articles;
     currentPage = 1;
