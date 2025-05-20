@@ -100,17 +100,23 @@ const API_KEY = "YOUR_NEWS_API_KEY_HERE";
 
 ---
 
-### 5️⃣ Deploy Your Own Instance
+###5️⃣ Deploy Your Own Instance
 
-#### Deploy to Netlify
+##Deploy to Vercel
 
-1. Fork this repository to your GitHub account
-2. Sign up for a free [Netlify](https://www.netlify.com/) account
-3. Click "New site from Git" and select your forked repository
-4. Configure environment variables:
-   - Name: `NEWS_API_KEY`
-   - Value: Your API key from NewsAPI.org
-5. Click "Deploy site"
+Fork this repository to your GitHub account
+
+Sign up for a free Vercel account
+
+Click “New Project” and import your forked repository
+
+Configure environment variables during setup or later in project settings:
+
+Name: NEWS_API_KEY
+
+Value: Your API key from NewsAPI.org
+
+Click “Deploy”
 
 ---
 
