@@ -100,9 +100,9 @@ const API_KEY = "YOUR_NEWS_API_KEY_HERE";
 
 ---
 
-###5️⃣ Deploy Your Own Instance
+### 5️⃣ Deploy Your Own Instance
 
-##Deploy to Vercel
+## Deploy to Vercel
 
 Fork this repository to your GitHub account
 
