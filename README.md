@@ -1,4 +1,4 @@
-# ⚡ FlashFeed : Real-Time News Aggregator Web App
+# FlashFeed : Real-Time News Aggregator Web App
 
 Welcome to **FlashFeed**, your one-stop portal for real-time, categorized news from trusted sources around the globe. Built using **HTML**, **CSS**, and **Vanilla JavaScript**, FlashFeed pulls the latest headlines using a **News API** and presents them in a fast, intuitive, and visually appealing interface.
 
