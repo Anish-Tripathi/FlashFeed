@@ -69,7 +69,7 @@ Welcome to **FlashFeed**, your one-stop portal for real-time, categorized news f
 ### 2️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/flashfeed.git
+git clone https://github.com/Anish-Tripathi/flashfeed.git
 cd flashfeed
 ```
 
